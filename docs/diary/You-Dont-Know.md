@@ -50,4 +50,4 @@
 
 - [typescript 已经有模块系统了，为什么还需要 namespace？](https://www.zhihu.com/question/65676593)
 
-- [写 TypeScript 时，什么时候用 any？什么时候用 unkown？](https://www.zhihu.com/question/355283769)
+- [写 TypeScript 时，什么时候用 any？什么时候用 unknown？](https://www.zhihu.com/question/355283769)
